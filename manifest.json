@@ -1,5 +1,5 @@
 {
-  "Group": "HytaleModding",
+  "Group": "dev.hytalemodding",
   "Name": "A-Hytale-Mod",
   "Version": "1.0.0",
   "Description": "A Hytale Mod, where anyone can commit changes, as long as project compiles.",
